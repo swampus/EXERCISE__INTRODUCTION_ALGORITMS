@@ -1,1 +1,10 @@
-
+0. What is an Algorithm ?
+1. Can you implement a Binary Search Algorithm?
+2. What is quick sort algorithm ?
+3. What is O notation ?
+4. What complexity have algorithm, that include 3 for cycles (i.. array.length)
+and each cycle do nothing inside.
+5. What is difference between worst case and best case in context of complexity calculation ?
+6. Why do we calculate algorithm complexity ?
+7. What is log function in math ?
+8. What is bigger n*n or n * (n log n)
